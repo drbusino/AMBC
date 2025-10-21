@@ -10,6 +10,7 @@
 - Pesquisa de lista de serviços
 - Edição de informações
 - Designação automática de códigos
+- Primeiro contato com o cliente deve ser o nome, o codigo deverá ser usado apenas para catalogação
 - Área para informações importantes
     - Nome do cliente
     - Tipo de aparelho
@@ -23,8 +24,9 @@
     - Peças a serem compradas 
     - Valor das peças (guardar o valor medio de casa peça por tipo e marca)
     - Observações adicionais
-- Primeiro contato com o cliente deve ser o nome, o codigo deverá ser usado apenas para catalogação
+
     
+
 
 
 

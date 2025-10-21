@@ -1,8 +1,8 @@
-#APP da loja de refrigeração AMBC
+# APP da loja de refrigeração AMBC
 
 
 
-##Requisitos
+## Requisitos
 
 -Armazenamento de dados
 -Input de dados
@@ -25,5 +25,6 @@
     -Observações adicionais
 -Primeiro contato com o cliente deve ser o nome, o codigo deverá ser usado apenas para catalogação
     
+
 
 

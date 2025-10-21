@@ -1,0 +1,19 @@
+{
+  "name": "ambc",
+  "version": "1.0.0",
+  "description": "- Armazenamento de dados\r - Input de dados\r - Pesquisa de valores \r - Pesquisa de lista de serviços\r - Edição de informações\r - Designação automática de códigos\r - Primeiro contato com o cliente deve ser o nome, o codigo deverá ser usado apenas para catalogação\r - Área para informações importantes\r     - Nome do cliente\r     - Tipo de aparelho\r     - Modelo do aparelho\r     - Data de entrada (tendo a opção dde autopreencher com a data atual)\r     - Queixa do cliente \r     - Diagnóstico\r     - Reparo a ser feito\r     - Telefone do cliente\r     - Endereço do cliente\r     - Peças a serem compradas \r     - Valor das peças (guardar o valor medio de casa peça por tipo e marca)\r     - Observações adicionais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbusino/AMBC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drbusino/AMBC/issues"
+  },
+  "homepage": "https://github.com/drbusino/AMBC#readme"
+}
